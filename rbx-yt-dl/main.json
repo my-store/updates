@@ -1,3 +1,4 @@
 [
-  { "name": "testlink.json", "path": "files" }
+  { "name": "testlink.json", "path": "/" },
+  { "name": "ow.rbx", "path": "/" }
 ]
